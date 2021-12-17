@@ -81,6 +81,14 @@ main h3 {
     padding: 20px 0;
 }
 
+.temp-h {
+    color: red;
+}
+
+.temp-low {
+    color: blue;
+}
+
 .temp {
     display: flex;
     justify-content: space-between;
